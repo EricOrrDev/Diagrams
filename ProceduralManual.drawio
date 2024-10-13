@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="4">
   <diagram name="Page-1" id="zHZe8oV2NRIceApb342o">
-    <mxGraphModel dx="797" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MjQd3fEfAFa7cJXNFyQw-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="140" width="300" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="MjQd3fEfAFa7cJXNFyQw-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Application Ideas&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Brainstorm app ideas, tasks you want to make easier, or problems you think can be solved with technology.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="275" y="30" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MjQd3fEfAFa7cJXNFyQw-3" value="Limerick Generator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="225" width="60" height="30" as="geometry" />
@@ -34,34 +31,8 @@
         <mxCell id="m8gioSrVSbrdT5OzjuUM-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="90" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="RQhrbDS4rTG2RGa09TAC" name="Page-2">
-    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Top Level Design&lt;br&gt;&lt;/h1&gt;&lt;p&gt;At this level we simply want to consider the inputs and the outputs of our application, such as how is the user going to use the application. Maybe it&#39;s a website, or a mobile app, or a command-line interface (CLI)? What does the application output, text, video, events?&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="300" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="270" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Websites are a really effective way to make an application, in fact a lot of desktop or mobile applications are just fancy wrappers around a website, such as Discord.&lt;/p&gt;&lt;p&gt;Simple websites are easy to make, relatively simple and cheap to host.&lt;/p&gt;&lt;p&gt;The downside to website is that they are a bit more complex than a CLI application as well spending time making the website decent looking.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="230" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="270" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Command Line Interface&lt;br&gt;&lt;/h1&gt;&lt;p&gt;CLI applications are simplest to make but also the least user friendly. I can show my grandpa a website I made, I can&#39;t show him a CLI application I made because it immediately presumes too much knowledge from the user.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="230" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="270" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Desktop or Mobile App&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Desktop and mobile applications are a real mixed bag, they simplify somethings while dramatically making other things more complicated. In general, these should not be where you are starting your software development journey.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="230" width="230" height="180" as="geometry" />
+        <mxCell id="OPEBJjm-oEURMZ7HafVz-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Brainstorming Application Ideas&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="59" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -95,8 +66,8 @@
         <mxCell id="dyo6y6c-8C_47OyoYKzG-6" value="Recipes Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyo6y6c-8C_47OyoYKzG-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Black Box Design &lt;br&gt;&lt;/h1&gt;&lt;p&gt;With each level of design iteration, we don&#39;t want to assume we know how the components work. At this level we are assuming or asserting that we have a user who interacts with our application via typing and clicking, the way most websites work, and in return they are able to receive the data of recipes at a later time.&lt;/p&gt;&lt;p&gt;At this level it doesn&#39;t matter if you don&#39;t know how your application will work, merely how you think it should work.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="360" height="160" as="geometry" />
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Black Box Design&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
