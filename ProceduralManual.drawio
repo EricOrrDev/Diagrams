@@ -168,8 +168,26 @@
         <mxCell id="JD4A44Lpu-pjN7zFpJKj-30" value="Load Recipe button clicked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JD4A44Lpu-pjN7zFpJKj-31" value="Triggers onclick Event which loads recipe from local storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JD4A44Lpu-pjN7zFpJKj-31" value="Triggers onclick Event which loads recipe JSON from local storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="325" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="10AK2AwSy40M5hLVctyI-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JD4A44Lpu-pjN7zFpJKj-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AK2AwSy40M5hLVctyI-2" value="Stringify JSON in Recipe Objects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="327.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="10AK2AwSy40M5hLVctyI-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10AK2AwSy40M5hLVctyI-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="430" as="sourcePoint" />
+            <mxPoint x="780" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10AK2AwSy40M5hLVctyI-4" value="Populate HTML elements innertext with recipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
