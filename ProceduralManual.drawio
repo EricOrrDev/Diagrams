@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="2">
   <diagram name="Page-1" id="zHZe8oV2NRIceApb342o">
-    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,26 @@
         </mxCell>
         <mxCell id="MjQd3fEfAFa7cJXNFyQw-9" value="Password Generator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8gioSrVSbrdT5OzjuUM-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RQhrbDS4rTG2RGa09TAC" name="Page-2">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Top Level Design&lt;br&gt;&lt;/h1&gt;&lt;p&gt;At this level we simply want to consider the inputs and the outputs of our application, such as how is the user going to use the application. Maybe it&#39;s a website, or a mobile app, or a command-line interface (CLI)? What does the application output, text, video, events?&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="300" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Websites are a really effective way to make an application, in fact a lot of desktop or mobile applications are just fancy wrappers around a website, such as Discord.&lt;/p&gt;&lt;p&gt;Simple websites are easy to make, relatively simple and cheap to host&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="230" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
