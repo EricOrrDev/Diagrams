@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="4">
   <diagram name="Page-1" id="zHZe8oV2NRIceApb342o">
     <mxGraphModel dx="797" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,13 +43,95 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HK1ue_WxeVtMfOWF_ap--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Top Level Design&lt;br&gt;&lt;/h1&gt;&lt;p&gt;At this level we simply want to consider the inputs and the outputs of our application, such as how is the user going to use the application. Maybe it&#39;s a website, or a mobile app, or a command-line interface (CLI)? What does the application output, text, video, events?&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="300" height="130" as="geometry" />
+          <mxGeometry x="310" y="40" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HK1ue_WxeVtMfOWF_ap--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="300" height="330" as="geometry" />
+          <mxGeometry x="30" y="200" width="270" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="HK1ue_WxeVtMfOWF_ap--3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Websites are a really effective way to make an application, in fact a lot of desktop or mobile applications are just fancy wrappers around a website, such as Discord.&lt;/p&gt;&lt;p&gt;Simple websites are easy to make, relatively simple and cheap to host&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Website&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Websites are a really effective way to make an application, in fact a lot of desktop or mobile applications are just fancy wrappers around a website, such as Discord.&lt;/p&gt;&lt;p&gt;Simple websites are easy to make, relatively simple and cheap to host.&lt;/p&gt;&lt;p&gt;The downside to website is that they are a bit more complex than a CLI application as well spending time making the website decent looking.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Command Line Interface&lt;br&gt;&lt;/h1&gt;&lt;p&gt;CLI applications are simplest to make but also the least user friendly. I can show my grandpa a website I made, I can&#39;t show him a CLI application I made because it immediately presumes too much knowledge from the user.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HK1ue_WxeVtMfOWF_ap--10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Desktop or Mobile App&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Desktop and mobile applications are a real mixed bag, they simplify somethings while dramatically making other things more complicated. In general, these should not be where you are starting your software development journey.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="230" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vmmTmBk_yV0dZrHQM9EE" name="Page-3">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-1" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="65" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-2" value="Recipe Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="250" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-3" value="Types and Clicks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="dyo6y6c-8C_47OyoYKzG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="180" as="sourcePoint" />
+            <mxPoint x="180" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="dyo6y6c-8C_47OyoYKzG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-6" value="Recipes Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dyo6y6c-8C_47OyoYKzG-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Black Box Design &lt;br&gt;&lt;/h1&gt;&lt;p&gt;With each level of design iteration, we don&#39;t want to assume we know how the components work. At this level we are assuming or asserting that we have a user who interacts with our application via typing and clicking, the way most websites work, and in return they are able to receive the data of recipes at a later time.&lt;/p&gt;&lt;p&gt;At this level it doesn&#39;t matter if you don&#39;t know how your application will work, merely how you think it should work.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="360" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uN0ka70o08CHeLbhaQEt" name="Page-4">
+    <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-1" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="65" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-2" value="Recipe Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="250" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-3" value="Types and Clicks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="dtvquhAGqmDVk7o2CvI4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="180" as="sourcePoint" />
+            <mxPoint x="180" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="dtvquhAGqmDVk7o2CvI4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-6" value="Recipes Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtvquhAGqmDVk7o2CvI4-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Refine Your Design&lt;br&gt;&lt;/h1&gt;&lt;p&gt;With each level of design iteration, we don&#39;t want to assume we know how the components work. At this level we are assuming or asserting that we have a user who interacts with our application via typing and clicking, the way most websites work, and in return they are able to receive the data of recipes at a later time.&lt;/p&gt;&lt;p&gt;At this level it doesn&#39;t matter if you don&#39;t know how your application will work, merely how you think it should work.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="360" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
