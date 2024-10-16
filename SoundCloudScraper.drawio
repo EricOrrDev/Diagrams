@@ -117,9 +117,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-1" value="SoundCloud Crawler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285" y="50" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZF5TG0T-v2N39kRFTsav-2" value="SitemapIndex" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="230" height="80" as="geometry" />
         </mxCell>
@@ -150,59 +147,53 @@
             <mxPoint x="450" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-13" value="User 01" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-14" value="User 0" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-8" target="ZF5TG0T-v2N39kRFTsav-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-8" target="ZF5TG0T-v2N39kRFTsav-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZF5TG0T-v2N39kRFTsav-19" value="User Aj" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="410" y="390" width="90" height="100" as="geometry" />
+          <mxGeometry x="180" y="380" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-20" target="ZF5TG0T-v2N39kRFTsav-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZF5TG0T-v2N39kRFTsav-20" value="User A" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-7" target="ZF5TG0T-v2N39kRFTsav-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-7" target="ZF5TG0T-v2N39kRFTsav-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="70" y="380" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZF5TG0T-v2N39kRFTsav-23" value="User Az" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="630" y="390" width="90" height="100" as="geometry" />
+          <mxGeometry x="400" y="380" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZF5TG0T-v2N39kRFTsav-24" value="User Aj" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="80" height="100" as="geometry" />
+          <mxGeometry x="290" y="380" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-6" target="ZF5TG0T-v2N39kRFTsav-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-27" value="User Bz" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZF5TG0T-v2N39kRFTsav-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-6" target="ZF5TG0T-v2N39kRFTsav-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-28" value="User B" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-8" target="ZF5TG0T-v2N39kRFTsav-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-8" target="ZF5TG0T-v2N39kRFTsav-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-7" target="ZF5TG0T-v2N39kRFTsav-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-7" target="ZF5TG0T-v2N39kRFTsav-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-6" target="ZF5TG0T-v2N39kRFTsav-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-6" target="ZF5TG0T-v2N39kRFTsav-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-37" value="&lt;div&gt;Crawler&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-39" value="Song URL storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZF5TG0T-v2N39kRFTsav-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZF5TG0T-v2N39kRFTsav-37" target="ZF5TG0T-v2N39kRFTsav-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
