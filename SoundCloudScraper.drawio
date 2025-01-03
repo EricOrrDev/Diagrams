@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="3">
   <diagram name="Page-1" id="DpDlWnKAV-84pjB3DJ0x">
     <mxGraphModel dx="1562" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,6 +122,45 @@
             <mxPoint x="-360" y="380" as="sourcePoint" />
             <mxPoint x="-310" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ygvViYtlgQalVS0yz0zG" name="Page-3">
+    <mxGraphModel dx="1594" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XRQlV7-PSPFr6FjUoxLf-1" target="XRQlV7-PSPFr6FjUoxLf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-600" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-1" value="Transcoding Field" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRQlV7-PSPFr6FjUoxLf-2" target="XRQlV7-PSPFr6FjUoxLf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-2" value="&lt;div&gt;Rate Limited Actor&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XRQlV7-PSPFr6FjUoxLf-3" target="XRQlV7-PSPFr6FjUoxLf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-3" value="SoundCloud ClientID" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-7" value="Track Mass Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-8" value="Progress Report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XRQlV7-PSPFr6FjUoxLf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XRQlV7-PSPFr6FjUoxLf-2" target="XRQlV7-PSPFr6FjUoxLf-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
